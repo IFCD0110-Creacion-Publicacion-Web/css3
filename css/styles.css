@@ -16,7 +16,7 @@ body {
 
 /* Cabecera con imagen de fondo */
 #main-header {
-    background-image: url('/img/cabecera.jpg');
+    background: url('../img/cabecera.jpg') no-repeat center center/cover;
     height: 100hv;
     color: white;
     position: relative;
